@@ -12,7 +12,7 @@ labels:
 ## The start of my journey with JavaScript
 
 These past two weeks of my life have been very hectic. I am beginning my college career at the University of Hawaii at Manoa where I am pursuing a BS in Computer Science
-- Data Science. Though I am not sure exactly what path I will take in the vastly expanding field, that is computer science, it all begins this semester (Fall 2022).
+Data Science. Though I am not sure exactly what path I will take in the vastly expanding field, that is computer science, it all begins this semester (Fall 2022).
 
 I am taking two computer science classes this semester, one of which is ICS 314 Software Engineering I. I am very interested in what this class has in store, from the 
 projects to the material in general. This first week we covered the basics of JavaScript, a language in which we will be using throughout the semester. I have no 
