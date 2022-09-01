@@ -12,7 +12,7 @@
       { "network": "github", "username": "JasonHerreraJr", "url": "http://github.com/JasonHerreraJr" },
       { "network": "linkedin", "username": "", "url": "http://linkedin.com/in/changeme" },
       { "network": "twitter", "username": "", "url": "" },
-      { "network": "instagram", "username": "name", "url": "http://instagram.com/changeme" }
+      { "network": "instagram", "username": "name", "url": "" }
     ]
   },
   "interests": [
