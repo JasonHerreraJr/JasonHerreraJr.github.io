@@ -70,7 +70,7 @@ answered this question gave a thorough breakdown of the question by explaining t
 system” as well as “println() is a method of PrintStream”. This user also provided a link, along with their answer, for more information to refer to regarding the
 topic.
 
-Here is a link to a "not smart" question on [StackOverflow](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch).
+Here is a link to a "not smart" question on [StackOverflow](https://stackoverflow.com/questions/31113981/system-out-println-implementation).
 
 ## Conclusion
 
