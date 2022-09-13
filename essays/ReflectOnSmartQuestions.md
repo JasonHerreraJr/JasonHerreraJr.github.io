@@ -38,7 +38,7 @@ they will simply answer with a “troll” answer, in other words they will answ
 find the answer to your question before you posted your question then those in the community will be more compelled to answer your question for you.
 
 
-## What’s a smart question?
+## What is a smart question?
 
 For the “smart” question I found a user that posted the question “How do I check out a remote Git branch?”. The reason I would consider this a “smart” question is
 because it checks most boxes that Eric Raymond had mentioned in his essay. To add to this question the user added a sufficient amount of insight to what he was trying
@@ -54,9 +54,9 @@ The answer for this question is a very thorough answer. The user that answered t
 that neither of those solutions would solve the problem, this user added a possible solution if this was “prior to Git 2.23”. The answer must have been very helpful to
 many users as it currently has 10,933 upvotes.
 
-Here is a link to the "smart" question on [StackOverflow](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch).
+Here is a link to a "Smart" Question On [Stackoverflow](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch).
 
-## What's a not smart question?
+## What is not smart question?
 
 My choice for a “not smart question” has a subject line that goes “System.out.println(); Implementation”. Now there are a handful of things that stick out to me with
 this post that make it a “not smart question”. First, the subject line does not give enough information and seems too general to pull in an expert to answer the
@@ -70,9 +70,10 @@ answered this question gave a thorough breakdown of the question by explaining t
 system” as well as “println() is a method of PrintStream”. This user also provided a link, along with their answer, for more information to refer to regarding the
 topic.
 
-Here is a link to the "not smart" question on [StackOverflow](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch).
+Here is a link to a "not smart" question on [StackOverflow](https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch).
 
 ## Conclusion
 
 In conclusion, there is a “smart” way to ask questions on Stack Overflow and there are also “not smart” ways to ask questions. The article written by Eric Raymond has
 been very informative and will allow me to navigate through Stack Overflow the proper way.
+
